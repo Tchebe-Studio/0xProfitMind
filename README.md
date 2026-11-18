@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xProfiMind
 - 👀 I’m interested in python programming, hacking, web development and trading
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning hacking
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me juvsamarange@outlook.com
 
